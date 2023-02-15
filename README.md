@@ -1,0 +1,1 @@
+# Kafka-AWS-Streaming-Stock
