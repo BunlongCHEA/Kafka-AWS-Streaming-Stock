@@ -8,7 +8,7 @@ The purpose of this project is to learn creating streaming data (stock-market) u
 ## Register AWS
 First, you need to register your account and provide credit card information to AWS. It is fairly simple by following AWS instruction or watch YouTube on how to create account in AWS.
 
-After that, search EC2 -> click on "Instances" -> click "Lanuch instances" -> provide "Name" at Name and tags -> choose "Amazon Machine Image" you want -> select "Instance type", for learning should choose Free tier eligible such as "t2.micro" -> you can reseach the other option, or leave it default -> then "Launch instance" to create EC2
+After that, search EC2 -> click on "Instances" -> click "Lanuch instances" -> provide "Name" at Name and tags -> choose "Amazon Machine Image" you want -> select "Instance type", for learning should choose Free tier eligible such as "t2.micro" -> create "Key pair" by provide name t -> you can reseach the other option, or leave it default -> then "Launch instance" to create EC2
 
 You can now click Instance Name that you just create, click on "Start instance" to start or "Stop instance" to stop
 ## Install tool
