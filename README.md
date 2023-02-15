@@ -5,3 +5,13 @@ This project is thank to "Darshil Parmar" that I am able to create it, you can w
 The purpose of this project is to learn creating streaming data (stock-market) using Apache Kafka in Python to Amazon Web Services (Amazon S3, Glue, Athena). We use EC2 machine to install tool to perform the task and learn more about the AWS. Here is the building structure of this project 
 
 ![Architecture](https://user-images.githubusercontent.com/99011504/218926703-9c3d754c-403e-4d84-8125-7f9b4ad854d3.jpg)
+
+## Technology Used
+- Programming Language - Python
+- Amazon Web Service (AWS)
+    1. EC2
+    2. S3 (Simple Storage Service)
+    3. Glue Crawler
+    4. Glue Catalog
+    5. Athena
+- Apache Kafka
