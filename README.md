@@ -14,4 +14,4 @@ You can now click Instance Name that you just create, click on "Start instance" 
 ## Install tool
 Now, it is time to install Apache Kafka and other tools on EC2 machine to continue your project. 
 
-First, open cmd, then type "wget https://downloads.apache.org/kafka/3.3.1/kafka_2.12-3.3.1.tgz 
+First, open cmd, then type "wget https://downloads.apache.org/kafka/3.4.0/kafka_2.13-3.4.0.tgz" or you can go to kafka.apache.org to download lastest version. NOTED: Please download at Binary section: Scala {version}.   
