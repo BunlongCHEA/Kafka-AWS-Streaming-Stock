@@ -6,4 +6,12 @@ The purpose of this project is to learn creating streaming data (stock-market) u
 
 ![Architecture](https://user-images.githubusercontent.com/99011504/218926703-9c3d754c-403e-4d84-8125-7f9b4ad854d3.jpg)
 ## Register AWS
-First, you need to register your account and provide credit card information to AWS. It is fairly simple by following AWS instruction or watch YouTube. Then, 
+First, you need to register your account and provide credit card information to AWS. It is fairly simple by following AWS instruction or watch YouTube on how to create account in AWS.
+
+After that, search EC2 -> click on "Instances" -> click "Lanuch instances" -> provide "Name" at Name and tags -> choose "Amazon Machine Image" you want -> select "Instance type", for learning should choose Free tier eligible such as "t2.micro" -> you can reseach the other option, or leave it default -> then "Launch instance" to create EC2
+
+You can now click Instance Name that you just create, click on "Start instance" to start or "Stop instance" to stop
+## Install tool
+Now, it is time to install Apache Kafka and other tools on EC2 machine to continue your project. 
+
+First, open cmd, then type "wget https://downloads.apache.org/kafka/3.3.1/kafka_2.12-3.3.1.tgz 
